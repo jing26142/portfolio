@@ -1,6 +1,6 @@
 <template>
     <h1>TJ Residence</h1>
-    <a href="http://128.199.75.166/">Link to the Website</a>
+    <a href="http://tjresidence.com/">Link to the Website</a>
     <div class="tech_stack_desc">Tech Stacks: JavaScript, VueJS, HTML, CSS </div>
     <br>
     <div class="box">

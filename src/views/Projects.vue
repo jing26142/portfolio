@@ -12,7 +12,7 @@
         <ul>
           <li>Built a front-end-only website for my family's business</li>
           <li class="tech_stack_desc">Tech Stacks: JavaScript, VueJS, HTML, CSS </li>
-          <li><a href="http://128.199.75.166/">Link</a> </li>
+          <li><a href="http://tjresidence.com/">Link</a> </li>
         </ul>
         <button style="float:right" type="button" class="btn btn-primary route-link">
           <router-link to="/projects/tj_residence">
@@ -45,7 +45,6 @@
           <li class="tech_stack_desc">Tech Stacks: Python, Django, JavaScript, SQL (Postgres), 
             HTML, CSS 
           </li>
-          <!-- <li><a href="http://128.199.75.166/">Link</a> </li> -->
         </ul>
         <button style="float:right" type="button" class="btn btn-primary route-link">
           <router-link to="/projects/apartment_management">

@@ -9,9 +9,10 @@
       <button type="button" class="btn btn-light"><a style="text-decoration: none; color: black;" :href="`${publicPath}resume.pdf`" download>RESUME</a></button>
     </div>
     <p style="margin: 0% 10%">
-      I'm a rising second semester Junior studying Computer Science and
-      Economics at Cornell University - open to any Summer Software Engineering/Data Engineering 2021 
-      internship roles!
+      I'm a rising senior studying Computer Science and
+      Economics at Cornell University expected to graduate in December 2021 - 
+      open to any Software Engineering/Data Engineering 2021 Summer Internship/Winter
+      Fulltime positions!
     </p>
     <h3>Relevant Courseworks</h3>
     <ul>

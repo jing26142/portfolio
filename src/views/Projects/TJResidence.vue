@@ -19,10 +19,6 @@
             static website with all the necessary information for our customers.
             </p>
             <p>
-            NOTE: the web address is currently just a simple IP address, we're in the
-            process of choosing and buying a domain.
-            </p>
-            <p>
             Below are just some small snippets from the site - feel free to read through!
             </p>
 

@@ -3,6 +3,7 @@ import Home from '../views/Home.vue'
 import WorkExperience from '../views/WorkExperience.vue'
 import TJResidence from '../views/Projects/TJResidence.vue'
 import ApartmentManagement from '../views/Projects/ApartmentMgmt.vue'
+import ArtistMoodMatch from '../views/Projects/ArtistMoodMatch.vue'
 // import Test from '../views/test1.vue'
 
 const routes = [
@@ -33,7 +34,11 @@ const routes = [
     path: '/projects/apartment_management',
     name: 'Apartment_Management',
     component: ApartmentManagement,
-  },
+  }, {
+    path: '/projects/artist_mood_match',
+    name: 'Artist_Mood_Match',
+    component: ArtistMoodMatch
+  }
 
 ]
 

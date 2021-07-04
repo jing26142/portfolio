@@ -6,13 +6,13 @@
       <a href="https://www.linkedin.com/in/noppol-jing-wongsrinoppakun-a7b767136/">
         <i class="fa fa-linkedin-square fa-lg" aria-hidden="true"></i>
       </a>
-      <button type="button" class="btn btn-light"><a style="text-decoration: none; color: black;" :href="`${publicPath}resume.pdf`" download>RESUME</a></button>
+      <button type="button" class="btn btn-light"><a style="text-decoration: none; color: black;" :href="`${publicPath}Noppol_(Jing)_Wongsrinoppakun_Resume.pdf`" download>RESUME</a></button>
     </div>
     <p style="margin: 0% 10%">
-      I'm a rising senior studying Computer Science and
-      Economics at Cornell University expected to graduate in December 2021 - 
-      open to any Software Engineering/Data Engineering 2021 Summer Internship/Winter
-      Fulltime positions!
+      I'm a senior Computer Science and Economics student at Cornell University graduating
+      this December 2021. I have working experiences in Fintech, traditional finance and 
+      E-commerce companies and am currently looking for full-time position in Software Engineering/any
+      other related roles!
     </p>
     <h3>Relevant Courseworks</h3>
     <ul>
@@ -45,12 +45,12 @@ export default {
     return {
       publicPath: process.env.BASE_URL,
       courseworks : [
-        'Python', 'Java', 'Algorithms', 'Database Systems', 'Functional Programming (OCaml)',
+        'Computer Systems', 'Web Programing','Python', 'Java', 'Algorithms', 'Database Systems', 'Functional Programming (OCaml)',
         'Discrete Structures',
       ],
       prg_languages: [
         'Python', 'Django', 'Java', 'OCaml', 'SQL', 'HTML + CSS', 'JavaScript',
-        'VueJS'
+        'VueJS (beginner)'
       ],
       interests: [
         'Reading (economics/history/biographies)', 'Exercise'

@@ -1,6 +1,23 @@
 <template>
     <div class="wrapper">
         <div class="work_header">
+            <h4 style="float: left">Stockpile, US (Remote)</h4>
+            <div class="work_time"> July 2021 - Present (Expected: August 2021) </div>
+        </div>
+        
+        <div class="work_description">
+            <div style="font-style:italic; float:left">Back-End Software Engineer Intern</div> <br>
+            <ul>
+                <li>Develop scalable Java back end to support Stockpile’s new incentive-based referral program</li>
+                <li>Work closely with our marketing and PM team to ensure that our referral program satisfies both our
+                    business and our technical requirements
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="wrapper">
+        <div class="work_header">
             <h4 style="float: left">Tencent, Bangkok, Thailand</h4>
             <div class="work_time"> July 2020 - August 2020 </div>
         </div>

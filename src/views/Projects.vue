@@ -3,6 +3,33 @@
 
     <div class="box">
       <div class="project_img_holder">
+        <img class="project_img"  src="../../public/moodmatch.jpg">
+      </div>
+      <div class="project_desc">
+        <h4 class="project_header">
+          Artist Mood Match: Matching Spotify's Top 100 Artist
+        </h4>
+        <ul>
+          <li>Matches the user's input moods to Spotify's top 100
+            artists
+          </li>
+          <li>The project is at its MVP stage and is no longer actively worked on
+          </li>
+          <li class="tech_stack_desc">Tech Stacks: JavaScript, Django, Numpy, JupyterNotebook, JSON</li>
+          <li><a href="http://artistmatch.herokuapp.com/">Link</a> </li>
+        </ul>
+        <button style="float:right" type="button" class="btn btn-primary route-link">
+          <router-link to="/projects/artist_mood_match">
+            Read More 
+          </router-link>
+        </button>
+      </div>
+    </div>
+    <br>
+    <br>
+
+    <div class="box">
+      <div class="project_img_holder">
         <img class="project_img"  src="../../public/tj_residence1.jpg">
       </div>
       <div class="project_desc">
@@ -20,12 +47,9 @@
           </router-link>
         </button>
       </div>
-      
-
     </div>
     <br>
     <br>
-
 
     <div class="box">
       <div class="project_img_holder">
@@ -52,11 +76,10 @@
           </router-link>
         </button>
       </div>
-
     </div>
+    <br>
+    <br>
 
-    <br>
-    <br>
     <div class="box">
       <div class="project_img_holder">
         <img class="project_img"  src="../../public/ocaml.png">
@@ -81,7 +104,6 @@
     </div>
 
 </template>
-
 <script>
 
 export default {

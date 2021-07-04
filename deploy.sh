@@ -2,7 +2,7 @@
 # abort on errors
 set -e
 # build
-npm run serve
+npm build
 # navigate into the build output directory
 cd dist
 # if you are deploying to a custom domain
@@ -10,5 +10,5 @@ cd dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:jing26142/profile.git master:gh-pages
+git push -f git@github.com:jing26142/profile.git master:gh-pages3
 cd -

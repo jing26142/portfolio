@@ -2,15 +2,19 @@
     <div class="wrapper">
         <div class="work_header">
             <h4 style="float: left">Stockpile, US (Remote)</h4>
-            <div class="work_time"> July 2021 - Present (Expected: August 2021) </div>
+            <div class="work_time"> July 2021 - Present (Transitioned from Full Time Intern to Part-time) </div>
         </div>
         
         <div class="work_description">
             <div style="font-style:italic; float:left">Back-End Software Engineer Intern</div> <br>
             <ul>
-                <li>Develop scalable Java back end to support Stockpile’s new incentive-based referral program</li>
-                <li>Work closely with our marketing and PM team to ensure that our referral program satisfies both our
-                    business and our technical requirements
+                <li> Built and deployed scalable Java back end (Grails Framework) to support Stockpile’s new incentive-based referral
+                program for our MVP program and beyond</li>
+                <li> Coordinated with our front-end team to build out necessary API end points for front-end/back-end compatibility
+                </li>
+                <li> Developed Slack/Mode/OpsGenie integration via AWS Lambda for alert escalation system for alert reports
+                </li>
+                <li> Plan and build Stockpile partner's program aimed drawing customers from our partners onto our platform
                 </li>
             </ul>
         </div>
